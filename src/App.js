@@ -6,7 +6,7 @@ const App = () => {
     <div className="container">
       <div className="smartphone">
         <img
-          src="https://cdn.wallpapersafari.com/8/25/Hlwhj6.jpg"
+          src="https://wallshub.net/wp-content/uploads/2021/05/Baby-Groot-Wallpaper.jpg"
           class="absolute inset-0 h-full w-full object-cover"
           alt=""
         />
@@ -29,6 +29,14 @@ const App = () => {
               <path d="M8 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM15 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z" />
               <path d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1V5a1 1 0 00-1-1H3zM14 7a1 1 0 00-1 1v6.05A2.5 2.5 0 0115.95 16H17a1 1 0 001-1v-5a1 1 0 00-.293-.707l-2-2A1 1 0 0015 7h-1z" />
             </svg>
+          </div>
+          <div className="mt-1.5 h-0.5 w-10 bg-white mr-7 ml-auto"></div>
+          <div className="mt-2 flex flex-col items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-white" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M10 2a5 5 0 00-5 5v2a2 2 0 00-2 2v5a2 2 0 002 2h10a2 2 0 002-2v-5a2 2 0 00-2-2H7V7a3 3 0 015.905-.75 1 1 0 001.937-.5A5.002 5.002 0 0010 2z" />
+            </svg>
+            <p className="mt-3 text-white text-6xl font-extralight">9:41</p>
+            <p className="mt-1 text-white text-lg font-light">Sexta-feira, 03 de Setembro</p>
           </div>
         </div>
       </div>
