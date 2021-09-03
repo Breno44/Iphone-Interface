@@ -38,6 +38,67 @@ const App = () => {
             <p className="mt-3 text-white text-6xl font-extralight">9:41</p>
             <p className="mt-1 text-white text-lg font-light">Sexta-feira, 03 de Setembro</p>
           </div>
+          <div className="mt-4 mx-2 relative">
+            <div className="h-80 bg-white p-4 bg-opacity-50 backdrop-blur rounded-3xl shadow">
+              <div className="flex justify-between">
+                <div>
+                  <p className="text-xs font-bold">12:21 PM</p>
+                  <h2 className="text-lg font-bold">seu resumo matinal</h2>
+                </div>
+                <span className="bg-gray-500 rounded-full flex justify-center items-center h-8 w-8 text-white">11</span>
+              </div>
+              <div className="mt-2 grid grid-cols-2 gap-2">
+                <div>
+                  <img
+                    src="https://i0.wp.com/pranchanova.com/wp-content/uploads/2019/12/surfing-2212948_1920.jpg?fit=1020%2C588&ssl=1"
+                    alt=""
+                    className="rounded-lg"
+                  />
+                  <h3 className="mt-2 text-xs font-bold leading-tight">It is a long established fact that a reader</h3>
+                  <p class="mt-1 text-xs">It is a long established fact that a reader</p>
+                </div>
+                <div>
+                  <img
+                    src="https://i0.wp.com/pranchanova.com/wp-content/uploads/2019/12/surfing-2212948_1920.jpg?fit=1020%2C588&ssl=1"
+                    alt=""
+                    className="rounded-lg"
+                  />
+                  <h3 className="mt-2 text-xs font-bold leading-tight">It is a long established fact that a reader</h3>
+                  <p class="mt-1 text-xs">It is a long established fact that a reader</p>
+                </div>
+              </div>
+              <hr class="mt-4 border-black border-opacity-25" />
+              <div className="mt-2 grid grid-cols-3 gap-1 items-end">
+                <div className="col-span-2">
+                  <h3 className="text-sm font-bold">Mais Atualizações</h3>
+                  <p className="mt-0.5 text-xs">Mouse, Keyboard, CPU, Mickey, Goku</p>
+                </div>
+                <ul className="flex flex-row-reverse -space-x-4 space-x-reverse">
+                  <li>
+                    <img
+                      className="h-8 w-8 rounded-xl object-cover"
+                      src="https://i0.wp.com/pranchanova.com/wp-content/uploads/2019/12/surfing-2212948_1920.jpg?fit=1020%2C588&ssl=1"
+                      alt=""
+                    />
+                  </li>
+                  <li>
+                    <img
+                      className="h-8 w-8 rounded-xl object-cover"
+                      src="https://i0.wp.com/pranchanova.com/wp-content/uploads/2019/12/surfing-2212948_1920.jpg?fit=1020%2C588&ssl=1"
+                      alt=""
+                    />
+                  </li>
+                  <li>
+                    <img
+                      className="h-8 w-8 rounded-xl object-cover"
+                      src="https://i0.wp.com/pranchanova.com/wp-content/uploads/2019/12/surfing-2212948_1920.jpg?fit=1020%2C588&ssl=1"
+                      alt=""
+                    />
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
