@@ -17,8 +17,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Breno44/Website-Ultra.git
-$ cd Website-Ultra
+$ git clone https://github.com/Breno44/Iphone-Interface.git
+$ cd Iphone-Interface
 ```
 
 Para iniciá-lo, siga os passos abaixo:
